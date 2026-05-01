@@ -92,10 +92,10 @@ export const botConfig = {
       secondary: "#ffffff", 
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287", 
+      success: "#ffffff", 
       error: "#ED4245", 
       warning: "#FEE75C", 
-      info: "#3498DB", 
+      info: "#ffffff", 
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -136,7 +136,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "FerretBot",
       // Footer icon URL (null = no icon).
       icon: null,
     },
