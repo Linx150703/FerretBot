@@ -172,10 +172,10 @@ export async function createInitialHelpMenu(client) {
         .setURL("https://discord.gg/QnWNz2dKCE")
         .setStyle(ButtonStyle.Link);
 
-    const touchpointButton = new ButtonBuilder(null)
-        .setLabel(null)
-        .setURL(null)
-        .setStyle(ButtonStyle.Link);null
+    const touchpointButton = new ButtonBuilder()
+        .setLabel("Gracias por usar atlas")
+        .setURL("https://discord.gg/aw4GBba843")
+        .setStyle(ButtonStyle.Link);
 
     const selectRow = createSelectMenu(
         CATEGORY_SELECT_ID,
