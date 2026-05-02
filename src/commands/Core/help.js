@@ -172,10 +172,10 @@ export async function createInitialHelpMenu(client) {
         .setURL("https://discord.gg/QnWNz2dKCE")
         .setStyle(ButtonStyle.Link);
 
-    const touchpointButton = new ButtonBuilder()
-        .setLabel("Learn from Touchpoint")
-        .setURL("https://www.youtube.com/@TouchDisc")
-        .setStyle(ButtonStyle.Link);
+    const touchpointButton = new ButtonBuilder(null)
+        .setLabel(null)
+        .setURL(null)
+        .setStyle(ButtonStyle.Link);null
 
     const selectRow = createSelectMenu(
         CATEGORY_SELECT_ID,
