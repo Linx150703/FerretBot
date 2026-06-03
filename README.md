@@ -86,13 +86,8 @@ TitanBot offers a complete suite of tools for Discord server management and comm
 <a name="quick-setup"></a>
 ## 🚀 Quick Setup (recommend)
 
-### 📹 Video Tutorial
-For a detailed step-by-step setup guide, watch our comprehensive video tutorial:
-[**TitanBot Setup Tutorial**](https://www.youtube.com/@TouchDisc)
-
 ## 🐳 Docker Deployment (Recommended)
 
-TitanBot is fully containerized for easy deployment.
 
 ### Using Docker Compose
 
