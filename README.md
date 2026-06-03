@@ -1,10 +1,6 @@
-# 🤖 TitanBot - Ultimate Discord Bot
+# ATLAS BOT - version BETA 
 
-**TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
-
-[![Support Server](https://img.shields.io/badge/-Support%20Server-%235865F2?logo=discord&logoColor=white&style=flat-square&logoWidth=20)](https://discord.gg/8kJBYhTGW9)
-[![Discord.js](https://img.shields.io/npm/v/discord.js?style=flat-square&labelColor=%23202225&color=%23202225&logo=npm&logoColor=white&logoWidth=20)](https://www.npmjs.com/package/discord.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=flat-square&logoWidth=20)
+**ATLAS** es un bot que aun sigue en actualizacion y que aun no esta completo del todo, cuenta con host de paga agregado un riguroso codigo, solo se puede modificar con el host ya abierto, ahi dentro se modifica token, id, guild id, etc, programado para que solo arranque desde el host
 
 ## 📚 Table of Contents
 
@@ -287,6 +283,6 @@ TitanBot is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
-**Made with ❤️**
+**Made by Linx**
 
 *Last updated: April 2026*
